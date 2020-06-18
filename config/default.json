@@ -1,0 +1,9 @@
+{
+  "mysql": {
+    "host": "zpj83vpaccjer3ah.chr7pe7iynqr.eu-west-1.rds.amazonaws.com",
+    "port": 3306,
+    "user": "USER",
+    "password": "PASSWORD",
+    "database": "ngek0vy9qz7idjw5"
+  }
+}
